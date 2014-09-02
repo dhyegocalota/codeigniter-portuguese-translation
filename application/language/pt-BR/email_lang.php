@@ -1,6 +1,6 @@
 <?php
 
-$lang['email_must_be_array']         = "O método de validação de email requer um array.";
+$lang['email_must_be_array']         = "O método de validação de email requer uma matriz.";
 $lang['email_invalid_address']       = "Email inválido: %s";
 $lang['email_attachment_missing']    = "Incapaz de localizar o seguinte anexo de email: %s";
 $lang['email_attachment_unreadable'] = "Incapaz de abrir este anexo: %s";
