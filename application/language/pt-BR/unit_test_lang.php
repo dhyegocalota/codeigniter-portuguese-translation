@@ -12,7 +12,7 @@ $lang['ut_failed']        = 'Falhou';
 $lang['ut_boolean']       = 'Booleano';
 $lang['ut_integer']       = 'Inteiros';
 $lang['ut_float']         = 'Float';
-$lang['ut_double']        = 'Float'; // pode ser o mesmo que float
+$lang['ut_double']        = 'Float'; // can be the same as float
 $lang['ut_string']        = 'String';
 $lang['ut_array']         = 'Matriz';
 $lang['ut_object']        = 'Objeto';
@@ -22,4 +22,4 @@ $lang['ut_notes']         = 'Notas';
 
 
 /* End of file unit_test_lang.php */
-/* Location: ./system/language/english/unit_test_lang.php */
+/* Location: ./application/language/portuguese/unit_test_lang.php */
