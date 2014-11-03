@@ -1,4 +1,4 @@
-# Translation [CodeIgniter v2.2.0](https://github.com/bcit-ci/CodeIgniter/tree/2.2-stable)
+# [pt-br] - Translation [CodeIgniter v2.2.0](https://github.com/bcit-ci/CodeIgniter/tree/2.2-stable)
 
 This repository contains Portuguese translations for the CodeIgniter v2.2.0
 
