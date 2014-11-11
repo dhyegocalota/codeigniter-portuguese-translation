@@ -1,10 +1,14 @@
-# [pt-br] - Translation [CodeIgniter v2.2.0](https://github.com/bcit-ci/CodeIgniter/tree/2.2-stable)
+## Tradução [CodeIgniter v2.2.0](https://github.com/bcit-ci/CodeIgniter/tree/2.2-stable)
 
-This repository contains Portuguese translations for the CodeIgniter v2.2.0
+Neste repositório contém traduções de:
 
-## Contributing
+ * Core
+ * Libraries
+ * Helpers
 
-> Totally feel free to contribute and help in new translations and fixes.
+## Contribuição
+Fique totalmente a vontade para contribuir e ajudar em novas traduções e correções.
 
-## License
+## Licença
+
 [MIT License](http://dhyegofernando.mit-license.org/) © Dhyego Fernando
