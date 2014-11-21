@@ -1,4 +1,4 @@
-## Tradução [CodeIgniter v2.2.0](https://github.com/EllisLab/CodeIgniter/tree/2.2-stable)
+## Tradução [CodeIgniter v2.2.0](https://github.com/bcit-ci/CodeIgniter/tree/2.2-stable)
 
 Neste repositório contém traduções de:
 
